@@ -6,4 +6,4 @@ Como usar:
 
 3 - Criar a tabela 'produtos' pelo http://localhost/phpmyadmin/.
 
-4 - Acessar pela aba produto-formulario.php.
+4 - Acessar pela aba http://localhost/loja/produto-formulario.php
